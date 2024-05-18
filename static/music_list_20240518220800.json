@@ -1,0 +1,50 @@
+[
+    {
+        "id": "9527",
+        "name": "Github 歌单",
+        "cover": "images/album.png",
+        "creatorName": "EXP",
+        "creatorAvatar": "images/avatar.jpg",
+        "item": [
+            {
+                "id": "86616e4d86f54e8144a2ae0becc0b743",
+                "name": "1",
+                "artist": "ئاۋازلىق ئەسەر Awazliq Eser",
+                "album": "سۇلغان گۇل 1.قىسىم (ئاۋازلىق ئەسەر)",
+                "url": "static/Sulghan Gul/1.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "86616e4d86f54e8144a2ae0becc0b743",
+                "pic_id": "",
+                "lyric_id": ""
+            },
+            {
+                "id": "4643400eb60fc0150f4cef74c7133fce",
+                "name": "2",
+                "artist": "ئاۋازلىق ئەسەر Awazliq Eser",
+                "album": "سۇلغان گۇل 2.قىسىم (ئاۋازلىق ئەسەر)",
+                "url": "static/Sulghan Gul/2.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "4643400eb60fc0150f4cef74c7133fce",
+                "pic_id": "",
+                "lyric_id": ""
+            },
+            {
+                "id": "c30766153f48fc99b368a9ed39316be6",
+                "name": "4",
+                "artist": "ئاۋازلىق ئەسەر Awazliq Eser",
+                "album": "سۇلغان گۇل 3.قىسىم (ئاۋازلىق ئەسەر)",
+                "url": "static/Sulghan Gul/4.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "c30766153f48fc99b368a9ed39316be6",
+                "pic_id": "",
+                "lyric_id": ""
+            }
+        ]
+    }
+]
