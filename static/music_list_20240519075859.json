@@ -7,20 +7,7 @@
         "creatorAvatar": "images/avatar.jpg",
         "item": [
             {
-                "id": "86616e4d86f54e8144a2ae0becc0b743",
-                "name": "1",
-                "artist": "ئاۋازلىق ئەسەر Awazliq Eser",
-                "album": "سۇلغان گۇل 1.قىسىم (ئاۋازلىق ئەسەر)",
-                "url": "static/Sulghan Gul/1.mp3",
-                "pic": "",
-                "lyric": "",
-                "source": "local",
-                "url_id": "86616e4d86f54e8144a2ae0becc0b743",
-                "pic_id": "",
-                "lyric_id": ""
-            },
-            {
-                "id": "4643400eb60fc0150f4cef74c7133fce",
+                "id": "f8b242c2004712149c5c2eb882e7aefb",
                 "name": "2",
                 "artist": "ئاۋازلىق ئەسەر Awazliq Eser",
                 "album": "سۇلغان گۇل 2.قىسىم (ئاۋازلىق ئەسەر)",
@@ -28,12 +15,12 @@
                 "pic": "",
                 "lyric": "",
                 "source": "local",
-                "url_id": "4643400eb60fc0150f4cef74c7133fce",
+                "url_id": "f8b242c2004712149c5c2eb882e7aefb",
                 "pic_id": "",
                 "lyric_id": ""
             },
             {
-                "id": "c30766153f48fc99b368a9ed39316be6",
+                "id": "41c4b20561717c38ba300b0fe8720a43",
                 "name": "4",
                 "artist": "ئاۋازلىق ئەسەر Awazliq Eser",
                 "album": "سۇلغان گۇل 3.قىسىم (ئاۋازلىق ئەسەر)",
@@ -41,7 +28,20 @@
                 "pic": "",
                 "lyric": "",
                 "source": "local",
-                "url_id": "c30766153f48fc99b368a9ed39316be6",
+                "url_id": "41c4b20561717c38ba300b0fe8720a43",
+                "pic_id": "",
+                "lyric_id": ""
+            },
+            {
+                "id": "05b2a4af31cf93ba8f47c751dcf9eb47",
+                "name": "1",
+                "artist": "ئاۋازلىق ئەسەر Awazliq Eser",
+                "album": "سۇلغان گۇل 1.قىسىم (ئاۋازلىق ئەسەر)",
+                "url": "static/Sulghan Gul/1.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "05b2a4af31cf93ba8f47c751dcf9eb47",
                 "pic_id": "",
                 "lyric_id": ""
             }
